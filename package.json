@@ -1,0 +1,22 @@
+{
+  "name": "lodash-extendall",
+  "version": "1.0.0",
+  "description": "Extend Lodash to allow all objects in an array of objects to be extended i.e. to have new properties added or existing properties updated.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.1",
+    "should": "^13.1.3"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidwaterston/lodash-extendall"
+  },
+  "author": "David Waterston",
+  "license": "MIT"
+}
