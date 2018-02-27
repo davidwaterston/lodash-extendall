@@ -31,7 +31,7 @@ _.extendAll([{a:1, b:2},{a:3, b:4}], {}}) // [{a:1, b:2},{a:3, b:4}]
 _.extendAll([{a:1, b:2},{a:3, b:4}], ['abc']) // [{a:1, b:2},{a:3, b:4}]
 _.extendAll([]], {a:false, x:false}) // []
 _.extendAll([{a:1, b:2},{a:3}], {b:false}) // [{a:1, b:false},{a:3, b:false}]
-
+```
 
 
 ### Version History

@@ -1,6 +1,6 @@
 {
   "name": "lodash-extendall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extend Lodash to allow all objects in an array of objects to be extended i.e. to have new properties added or existing properties updated.",
   "main": "index.js",
   "dependencies": {
