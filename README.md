@@ -38,4 +38,6 @@ _.extendAll([{a:1, b:2},{a:3}], {b:false}) // [{a:1, b:false},{a:3, b:false}]
 
 | Version | Release Date | Details |   
 | :-- | :-- | :-- |    
+| 1.0.2 | 27th February, 2018 | Update the Version History. No functionality changes. |
+| 1.0.1 | 27th February, 2018 | Fix layout issues with Examples in the README. No functionality changes. |
 | 1.0.0 | 26th February, 2018 | Initial release. |
